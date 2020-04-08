@@ -1,0 +1,205 @@
+State,No. of districts infected,District,Infected Count
+a&n islands,1,south andaman,10
+andhra pradesh,11,ananthapur,2
+andhra pradesh,11,chitoor,6
+andhra pradesh,11,east godavari,6
+andhra pradesh,11,guntur,9
+andhra pradesh,11,kadappa,15
+andhra pradesh,11,krishna,6
+andhra pradesh,11,kurnool,1
+andhra pradesh,11,nellore,3
+andhra pradesh,11,prakasam,15
+andhra pradesh,11,vizag,11
+andhra pradesh,11,west godavari,12
+assam,1,,1
+bihar,8,munger,8
+bihar,8,patna,5
+bihar,8,siwan,5
+bihar,8,gaya,1
+bihar,8,begusarai,1
+bihar,8,gopalganj,1
+bihar,8,lakhisarai,1
+bihar,8,nalanda,1
+chhattisgarh,5,raipur,5
+chhattisgarh,5,rajnandgaon,1
+chhattisgarh,5,durg,1
+chhattisgarh,5,bilaspur,1
+chhattisgarh,5,korba,1
+delhi,11,central,12
+goa,1,,5
+gujarat,10,ahmedabad,33
+gujarat,10,bhavnagar,6
+gujarat,10,gandhinagar,10
+gujarat,10,girsomnath,2
+gujarat,10,kutch,1
+gujarat,10,mehsana,1
+gujarat,10,porbandar,1
+gujarat,10,rajkot,10
+gujarat,10,surat,9
+gujarat,10,vadodara,9
+haryana,9,faridabad,6
+haryana,9,gurugram,24
+haryana,9,palwal,1
+haryana,9,panchkula,2
+haryana,9,panipat,4
+haryana,9,ambala,1
+haryana,9,sonipat,1
+haryana,9,sirsa,3
+haryana,9,hissar,1
+himachal pradesh,1,kangra,3
+jammu & kashmir,9,jammu,5
+jammu & kashmir,9,rajouri,3
+jammu & kashmir,9,udhampur,4
+jammu & kashmir,9,srinagar,25
+jammu & kashmir,9,bandipora,11
+jammu & kashmir,9,budgam,7
+jammu & kashmir,9,pulwama,3
+jammu & kashmir,9,baramulla,2
+jammu & kashmir,9,shopian,2
+jahrkhand,1,ranchi,1
+karnataka,14,bbmp,30
+karnataka,14,bellary,3
+karnataka,14,bengaluru urban,21
+karnataka,14,bengaluru rural,1
+karnataka,14,chikkaballapura,7
+karnataka,14,dakshin kannada,9
+karnataka,14,dharwad,1
+karnataka,14,kalaburgi,4
+karnataka,14,kodagu,1
+karnataka,14,mysore,18
+karnataka,14,tumkuru,1
+karnataka,14,udupi,3
+karnataka,14,uttar kannada,8
+karnataka,14,davangere,3
+kerala,14,alappuzha,2
+kerala,14,ernakulam,23
+kerala,14,idukki,4
+kerala,14,kannur,49
+kerala,14,kasargod,115
+kerala,14,kottayam,6
+kerala,14,kozhikode,9
+kerala,14,palakkad,6
+kerala,14,pathanamthitta,10
+kerala,14,wayanad,3
+kerala,14,thiruvanthpuram,13
+kerala,14,mallapuram,11
+kerala,14,thrissur,11
+kerala,14,kollam,3
+ladakh,2,kargil,2
+ladakh,2,leh,11
+madhya pradesh,7,bhopal,3
+madhya pradesh,7,gwalior,1
+madhya pradesh,7,indore,12
+madhya pradesh,7,shivpuri,2
+madhya pradesh,7,ujjain,4
+madhya pradesh,7,jabalpur,8
+madhya pradesh,7,neemuch,1
+madhya pradesh,7,,68
+maharashtra,19,ahmednagar,8
+maharashtra,19,aurangabad,1
+maharashtra,19,buldana,4
+maharashtra,19,mumbai,174
+maharashtra,19,mumbai sub urban,5
+maharashtra,19,gondia,1
+maharashtra,19,jalagaon,1
+maharashtra,19,nagpur,18
+maharashtra,19,nashik,1
+maharashtra,19,kolhapur,2
+maharashtra,19,palghar,2
+maharashtra,19,pune,49
+maharashtra,19,raigad,2
+maharashtra,19,ratnagiri,1
+maharashtra,19,sangli,24
+maharashtra,19,satara,3
+maharashtra,19,sindhudurg,1
+maharashtra,19,thane,20
+maharashtra,19,yavatmal,4
+maharashtra,19,blanks,1
+maharashtra,19,,13
+manipur,1,imphal west,1
+mizoram,1,,1
+odisha,2,khordha,3
+odisha,2,bhadrak,1
+puducherry,2,mahe,1
+punjab,7,amritsar,2
+punjab,7,hoshiarpur,6
+punjab,7,jalandhar,5
+punjab,7,ludhiana,3
+punjab,7,sas nagar,10
+punjab,7,sbs nagar,19
+punjab,7,patiala,1
+rajasthan,11,bhilwara,26
+rajasthan,11,jaipur,32
+rajasthan,11,jhunjhunu,8
+rajasthan,11,jodhpur,8
+rajasthan,11,pali,1
+rajasthan,11,dungarpur,3
+rajasthan,11,ajmer,5
+rajasthan,11,pratapgarh,2
+rajasthan,11,alwar,1
+rajasthan,11,sikar,1
+rajasthan,11,churu,1
+rajasthan,11,evacuees from iran,18
+rajasthan,11,foreign nationals,2
+tamil nadu,23,chennai,37
+tamil nadu,23,coimbatoor,29
+tamil nadu,23,dindugal,17
+tamil nadu,23,erode,26
+tamil nadu,23,kanchipurum,3
+tamil nadu,23,kanyakumari,5
+tamil nadu,23,karur,2
+tamil nadu,23,madurai,15
+tamil nadu,23,namakkal,18
+tamil nadu,23,salem,6
+tamil nadu,23,sivagangai,5
+tamil nadu,23,thanjavur,1
+tamil nadu,23,theni,20
+tamil nadu,23,thiruvannamalai,2
+tamil nadu,23,thiruvarur,2
+tamil nadu,23,thoothukudi,3
+tamil nadu,23,tiruneveli,29
+tamil nadu,23,tirupattur,7
+tamil nadu,23,tirupur,1
+tamil nadu,23,trichirapalli,1
+tamil nadu,23,vellore,1
+tamil nadu,23,villupuram,3
+tamil nadu,23,virudhunagar,1
+uttar pradesh,16,agra,12
+uttar pradesh,16,bagpat,1
+uttar pradesh,16,bareilly,6
+uttar pradesh,16,bulandshahar,3
+uttar pradesh,16,gb nagar,45
+uttar pradesh,16,ghaziabad,8
+uttar pradesh,16,jaunpur,1
+uttar pradesh,16,kanpur,1
+uttar pradesh,16,lucknow,9
+uttar pradesh,16,meerut,19
+uttar pradesh,16,lakhimpur,1
+uttar pradesh,16,varanasi,2
+uttar pradesh,16,philibhit,2
+uttar pradesh,16,shamli,1
+uttar pradesh,16,basti,1
+uttar pradesh,16,moradabad,1
+telangana,12,hyderabad,44
+telangana,12,bhadradri,4
+telangana,12,karimnagar,13
+telangana,12,madchal,11
+telangana,12,mahboobnagar,3
+telangana,12,nizamabad,2
+telangana,12,ranga reddy,11
+telangana,12,,1
+telangana,12,gadwal,2
+telangana,12,kamareddy,3
+telangana,12,,2
+west bengal,9,kolkata,17
+west bengal,9,nadia,5
+west bengal,9,east medinipur,3
+west bengal,9,west medinipur,1
+west bengal,9,kalimpong,1
+west bengal,9,howrah,2
+west bengal,9,hooghly,4
+west bengal,9,north 24 parganas,3
+west bengal,9,south 24 parganas,1
+uttarakhand,2,dehradun,4
+uttarakhand,2,pauri garhwal,1
+uttarakhand,2,,2
